@@ -1,0 +1,7 @@
+.kanban-container {
+    display: flex;
+}
+.kanban-grp {
+    flex: 1;
+    margin: 0 15px;
+}

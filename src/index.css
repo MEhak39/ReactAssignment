@@ -1,0 +1,9 @@
+.display-btn{
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 5px;
+  font-size: 14px;
+}
+.display-btn:hover{
+    cursor: pointer;
+}
